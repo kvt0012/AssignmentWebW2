@@ -5,6 +5,11 @@
 	
 	
 }
+.fixed {
+    position: fixed;
+    top:0; 
+	width: 100%; 
+}
 .hotline {
 	color:#959595;
 	font-size:13px;
@@ -46,7 +51,7 @@ a.top-site:hover {
 	height: 62px;
 	border-bottom:3px solid #040505;
 	font-weight: bold;
-	
+	z-index:1000;
 }
 
 .bottomheader .trongsuot {
