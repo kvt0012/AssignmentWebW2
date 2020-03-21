@@ -133,9 +133,6 @@ p.text3 {
 	font-family: 'Montserrat', sans-serif;
 
 }
-.thongtinsp {
-	margin-top:5%;
-}
 .thongtinsp .text h3 {
 	font-family: 'Montserrat', sans-serif;
 	color:#353c3e;
@@ -196,71 +193,15 @@ font-family: 'Montserrat', sans-serif;
 	height:200px;
 }
 
+.thongtinsp {
+	background: #f6f6f6;
+}
+
 .bigNewsPicture {
 	width:100%;
 	height: auto;
-	margin-bottom: 5%;
 
 }
-.txtNewsBig{
-	color:#000000;
-	font-weight: bold;
-	margin-left: 5px;
-	margin-right: 20px;
-	font-family: Montserrat;
-	margin-top:20%;
-	font-size: 25px;
-	
-
+.newsTitle {
 
 }
-.txtNewsSmall {
-	color:#000000;
-	margin-left: 5px;
-	margin-right: 20px;
-	font-family: Montserrat;
-
-}
-.txtNewsTitle{
-	margin-top:30px !important;
-}
-a.txtNews:hover{	
-	color: #8f042c;
-	text-decoration: none;
-}
-.imageNews{
-	height: 55%;
-	width:100%;
-	margin-left:10%;
-}
-.foot{
-	height: 300px;
-	margin-top:50px;
-}
-.vl {
-	border-left: 6px solid green;
-	height: 50px;
-	position: absolute;
-	left: 50%;
-	margin-left: -3px;
-	top: 0;
-  }
-/* Style all font awesome icons */
-.fa {
-	padding:10px;
-	margin-left: 10px;
-	font-size: 30px;
-	width: 40px;
-	text-align: center;
-	text-decoration: none;
-	border-radius: 50%;
-  }
-  
-  /* Add a hover effect if you want */
-  .fa:hover {
-
-	opacity: 0.5
-  }
-  
-  /* Set a specific color for each brand */
-  
