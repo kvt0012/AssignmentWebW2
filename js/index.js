@@ -19,7 +19,7 @@ elementWatcher.enterViewport(function() {
     var cd1 = anime({
         targets:'.bigNews',
         translateX: '-800px',
-        duration: 500,
+        duration: 700,
         ease:'easeInOutQuint',
         direction: 'reverse',
     })  
@@ -34,7 +34,7 @@ elementWatcher.enterViewport(function() {
     var cd3 = anime({
         targets:'.smallNewsTop  ',
         translateX: '800px',
-        duration: 500,
+        duration: 700,
         ease:'easeInOutQuint',
         direction: 'reverse',
         delay:200
