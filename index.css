@@ -140,6 +140,7 @@ p.text3 {
 }
 .thongtinsp {
 	margin-top:5%;
+	position: relative;
 }
 .thongtinsp .text h3 {
 	font-family: 'Montserrat', sans-serif;
@@ -190,6 +191,10 @@ font-family: 'Montserrat', sans-serif;
 .thongtinsp .bigNews {
 	margin-top: 60px;
 	height:520px;
+	
+}
+.bigNewsSVG{
+	position: absolute;
 }
 .thongtinsp .smallNewsTop {
 	margin-top: 105px;
@@ -267,5 +272,15 @@ a.txtNews:hover{
 	opacity: 0.5
   }
   
-  /* Set a specific color for each brand */
-  
+.chunhat{
+	position: absolute;
+	width:100%;
+	height: 110%;
+	background: gold;
+	top:0px;
+	left:0px;
+}
+.effect{
+	position: relative;
+	display: inline-block;
+}
